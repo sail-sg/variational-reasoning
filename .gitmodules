@@ -2,3 +2,7 @@
 	path = SkyThought
 	url = https://github.com/zhouxiangxin1998/SkyThought.git
 	branch = release
+[submodule "LLaMA-Factory"]
+	path = LLaMA-Factory
+	url = https://github.com/zhouxiangxin1998/LLaMA-Factory.git
+	branch = release
