@@ -1,0 +1,4 @@
+[submodule "SkyThought"]
+	path = SkyThought
+	url = https://github.com/zhouxiangxin1998/SkyThought.git
+	branch = release
