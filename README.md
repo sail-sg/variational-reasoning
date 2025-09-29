@@ -1,6 +1,6 @@
 # Variational Reasoning for Language Models
 
-This is the official repository for the paper "Variational Reasoning for Language Models".
+This is the official repository for the paper [Variational Reasoning for Language Models](https://arxiv.org/pdf/2509.22637).
 
 The repository currently includes data processing, training pipelines, and an evaluation suite. It's initialized from [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) and [SkyThought](https://github.com/NovaSky-AI/SkyThought).
 
@@ -152,6 +152,11 @@ Please refer to `LLaMA-Factory/variational_reasoning/train/train_variational_pos
 ## 📖 Citation
 
 If you find this code useful, please consider citing our paper:
-```
-TBD
+```bib
+@article{zhou2025variationalreasoninglanguagemodels,
+      title={Variational Reasoning for Language Models}, 
+      author={Xiangxin Zhou and Zichen Liu and Haonan Wang and Chao Du and Min Lin and Chongxuan Li and Liang Wang and Tianyu Pang},
+      journal={arXiv preprint arXiv:2509.22637},
+      year={2025}
+}
 ```
